@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSecurity Student
+Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSecurity Student | AI Enthusiastic
 
 
 ## 🌐 Socials:
