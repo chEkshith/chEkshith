@@ -20,10 +20,13 @@ Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSe
 
 ### 🔝 Top Contributed Repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chEkshith&layout=compact&theme=radical)](https://github.com/chEkshith)
+**[Mood Map](https://github.com/chEkshith/mood-map)** - Track and visualize daily mood with Flask, Python, and charts.  
+Built during my Python learning phase.
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical)](https://github.com/chEkshith/mood-map)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical&border_radius=10&show_owner=true)](https://github.com/chEkshith/mood-map)
 
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chEkshith&layout=compact&theme=radical&border_radius=10)](https://github.com/chEkshith)
 ---
 [![](https://komarev.com/ghpvc/?username=chEkshith&icon=0&color=0)](https://visitcount.itsvg.in)
 
