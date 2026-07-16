@@ -19,7 +19,10 @@ Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSe
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chEkshith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chEkshith&layout=compact&theme=radical)](https://github.com/chEkshith)
+
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical)](https://github.com/chEkshith/mood-map)
 
 ---
 [![](https://komarev.com/ghpvc/?username=chEkshith&icon=0&color=0)](https://visitcount.itsvg.in)
