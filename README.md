@@ -20,8 +20,7 @@ Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSe
 
 ### 🔝 Top Contributed Repo
 
-**[Mood Map](https://github.com/chEkshith/mood-map)** - Track and visualize daily mood with Flask, Python, and charts.  
-Built during my Python learning phase.
+**[Mood Map](https://github.com/chEkshith/mood-map)** - change your mood with Flask, Python, and charts.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical&border_radius=10&show_owner=true)](https://github.com/chEkshith/mood-map)
 
