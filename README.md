@@ -21,12 +21,12 @@ Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSe
 ### 🔝 Top Contributed Repo
 
 **[Mood Map](https://github.com/chEkshith/mood-map)** - change your mood with Flask, Python, and charts.  
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical&border_radius=10&show_owner=true)](https://github.com/chEkshith/mood-map)
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chEkshith&layout=compact&theme=radical&border_radius=10)](https://github.com/chEkshith)
 ---
 [![](https://komarev.com/ghpvc/?username=chEkshith&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
