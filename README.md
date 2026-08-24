@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSecurity Student 
 
 
