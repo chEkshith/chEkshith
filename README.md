@@ -1,33 +1,283 @@
-# 💫 About Me :
-Full stack developer | MERN specialist | Aspiring Software Engineering | CyberSecurity Student 
+<h1 align="center">Hey 👋, I'm Ekshith</h1>
 
+<h3 align="center">
+  B.Tech CSE Student • Software Developer • Cybersecurity Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ekshith-ch) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Chekshith12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chekshith12@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/chokkaniekshith/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat)](https://www.codechef.com/users/vvit23bq1a4710) [![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-0D47A1?style=flat)](https://smartinterviews.in/profile/ekshith_ch) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ekshith_Ch)
+<p align="center">
+  <a href="https://github.com/chekshith">
+    <img src="https://komarev.com/ghpvc/?username=chekshith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/chekshith?tab=followers">
+    <img src="https://img.shields.io/github/followers/chekshith?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/chekshith">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Projects+%26+Learning+Every+Day;Software+Development+%7C+Cybersecurity;AI%2FML+%7C+Web+Development+%7C+Cloud;Turning+Ideas+into+Working+Products" alt="Typing SVG"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chEkshith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=chEkshith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chEkshith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chEkshith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-**[Mood Map](https://github.com/chEkshith/mood-map)** - change your mood with Flask, Python, and charts.  
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chEkshith&repo=mood-map&theme=radical&border_radius=10&show_owner=true)](https://github.com/chEkshith/mood-map)
-
-### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chEkshith&layout=compact&theme=radical&border_radius=10)](https://github.com/chEkshith)
 ---
-[![](https://komarev.com/ghpvc/?username=chEkshith&icon=0&color=0)](https://visitcount.itsvg.in)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Computer Science student
+* 💻 Interested in **Software Engineering, Cybersecurity, AI/ML and Full-Stack Development**
+* 🚀 I enjoy building practical projects and experimenting with new technologies
+* 🧠 Constantly improving my **DSA, problem-solving and software development skills**
+* 🔐 Exploring **Cybersecurity, AI-powered systems and secure application development**
+* 📝 I write technical articles on **Medium**
+* 🎥 I create/share technology content on **YouTube**
+* 🌱 Currently learning, building and improving every day
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,sql" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,vite" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,vercel" />
+</p>
+
+### 🤖 AI / ML & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">CampusConnect</h3>
+
+<p align="center">
+  <a href="https://github.com/chekshith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chekshith&repo=CampusConnect&theme=transparent&hide_border=true" alt="CampusConnect"/>
+  </a>
+</p>
+
+<p align="center">
+Full-stack campus networking platform built using React, Node.js, Express and MongoDB.
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">MoodMap</h3>
+
+<p align="center">
+  <a href="https://github.com/chekshith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chekshith&repo=MoodMap&theme=transparent&hide_border=true" alt="MoodMap"/>
+  </a>
+</p>
+
+<p align="center">
+AI-powered application combining mood classification, LLMs and location-based recommendations.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">OptiCrop</h3>
+
+<p align="center">
+  <a href="https://github.com/chekshith">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chekshith&repo=OptiCrop&theme=transparent&hide_border=true" alt="OptiCrop"/>
+  </a>
+</p>
+
+<p align="center">
+Machine-learning based crop recommendation system using Python and Random Forest.
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">More Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/chekshith?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+Explore my other experiments, academic projects and development work.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chekshith&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekshith&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chekshith&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chekshith&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chekshith/chekshith/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 📅 My Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chekshith&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Contribution Overview"/>
+</p>
+
+---
+
+# ⭐ GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/chekshith?style=for-the-badge&logo=github&label=Repositories" alt="Repositories"/>
+
+<img src="https://img.shields.io/github/stars/chekshith?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+
+<img src="https://img.shields.io/github/followers/chekshith?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chekshith&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/chokkaniekshith">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/vvit23bq1a4710">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.hackerrank.com/chekshith12">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://codeforces.com/profile/ekshith_ch">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ekshith-ch">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://kaggle.com/chekshith">
+<img src="https://cdn.simpleicons.org/kaggle" width="45" alt="Kaggle"/>
+</a>
+
+<a href="https://medium.com/@chekshith12">
+<img src="https://cdn.simpleicons.org/medium" width="45" alt="Medium"/>
+</a>
+
+<a href="https://www.youtube.com/c/chekshith6310">
+<img src="https://cdn.simpleicons.org/youtube" width="45" alt="YouTube"/>
+</a>
+
+<a href="mailto:chekshith12@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" width="45" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+# 📝 Latest Articles
+
+<p align="center">
+  <a href="https://medium.com/@chekshith12">
+    <img src="https://img.shields.io/badge/Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+---
+
+
+---
+
+<h3 align="center">
+  "Build. Break. Learn. Repeat. 🚀"
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
