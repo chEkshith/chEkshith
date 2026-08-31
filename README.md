@@ -1,5 +1,7 @@
 <h2 align="center">Hey 👋, I'm Ekshith</h2>
-
+<p align="center">
+  <img src="header-dark.png" alt="Header" width="100%"/>
+</p>
 <p align="center">
   <a href="https://github.com/chekshith">
     <img src="https://komarev.com/ghpvc/?username=chekshith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" height="20"/>
