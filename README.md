@@ -19,7 +19,7 @@
 
 <h4>📊 GitHub Stats</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chekshith&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" height="150"/>
+<img src="https://raw.githubusercontent.com/chekshith/chekshith/main/generated/overview.svg" alt="GitHub Stats" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -56,7 +56,7 @@
 
 <h5>Top Languages by Repo</h5>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekshith&layout=pie&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages by Repo" height="150"/>
+<img src="https://raw.githubusercontent.com/chekshith/chekshith/main/generated/languages.svg" alt="Top Languages by Repo" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center" style="border:1px solid #ffffff;">
