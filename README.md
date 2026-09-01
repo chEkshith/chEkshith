@@ -11,20 +11,20 @@
   </a>
 </p>
 
----
+
 
 <table align="center">
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h4>📊 GitHub Stats</h4>
+<!--<h4>📊 GitHub Stats</h4>-->
 
-<img src="https://raw.githubusercontent.com/chekshith/chekshith/main/generated/overview.svg" alt="GitHub Stats" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h4>📌 GitHub Overview</h4>
+<!--<h4>📌 GitHub Overview</h4>-->
 
 <img src="https://streak-stats.demolab.com?user=chekshith&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" height="150"/>
 
@@ -32,7 +32,7 @@
 </tr>
 </table>
 
----
+
 
 <h4 align="center">🛠️ Tech Stack</h4>
 
@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,html,css,react,nodejs,express,tailwind,vite,mongodb,postgres,mysql,aws,gcp,docker,kubernetes,git,github,vercel,fastapi,flask" height="75"/>
 </p>
 
----
+
 
 <h4 align="center">📌 Contribution Activity</h4>
 
@@ -48,7 +48,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chekshith&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph" height="150"/>
 </p>
 
----
+
 
 <table align="center" style="border:1px solid #ffffff; border-radius:10px;">
 <tr>
@@ -56,7 +56,7 @@
 
 <h5>Top Languages by Repo</h5>
 
-<img src="https://raw.githubusercontent.com/chekshith/chekshith/main/generated/languages.svg" alt="Top Languages by Repo" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages by Repo" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center" style="border:1px solid #ffffff;">
@@ -69,12 +69,12 @@
 </tr>
 </table>
 
----
 
 
----
 
-<h4 align="center">🐍 Contribution Snake</h4>
+
+
+<!--<h4 align="center">🐍 Contribution Snake</h4> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/chekshith/chekshith/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" height="150"/>
@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chekshith&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" height="80"/>
 </p>
----
+
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <!-- Coding Profiles Block -->
