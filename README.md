@@ -19,15 +19,15 @@
 
 <!--<h4>📊 GitHub Stats</h4>-->
 
-<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="150"/>
-<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="180"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" height="180"/>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <!--<h4>📌 GitHub Overview</h4>-->
 
-<img src="https://streak-stats.demolab.com?user=chekshith&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" height="150"/>
+<img src="https://streak-stats.demolab.com?user=chekshith&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" height="180"/>
 
 </td>
 </tr>
@@ -43,10 +43,10 @@
 
 
 
-<h4 align="center">📌 Contribution Activity</h4>
+<!--<h4 align="center">📌 Contribution Activity</h4>-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chekshith&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Activity Graph" height="150"/>
+<img src="https://raw.githubusercontent.com/chekshith/chekshith/output/activity-graph.svg" alt="GitHub Activity Graph" height="290"/>
 </p>
 
 
@@ -57,15 +57,15 @@
 
 <h5>Top Languages by Repo</h5>
 
-<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages by Repo" height="150"/>
-<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top Languages by Repo" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages by Repo" height="180"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top Languages by Repo" height="180"/>
 
 </td>
 <td width="50%" valign="top" align="center" style="border:1px solid #ffffff;">
 
 <h5>Top Languages by Commit</h5>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekshith&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages by Commit" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekshith&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages by Commit" height="180"/>
 
 </td>
 </tr>
