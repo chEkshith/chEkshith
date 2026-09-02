@@ -20,6 +20,7 @@
 <!--<h4>📊 GitHub Stats</h4>-->
 
 <img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -57,6 +58,7 @@
 <h5>Top Languages by Repo</h5>
 
 <img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top Languages by Repo" height="150"/>
+<img src="https://github.com/chekshith/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top Languages by Repo" height="150"/>
 
 </td>
 <td width="50%" valign="top" align="center" style="border:1px solid #ffffff;">
