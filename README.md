@@ -83,7 +83,7 @@
 </p>
 
 
-<h4 align="center">🏆 Achievements</h4>
+<!--<h4 align="center">🏆 Achievements</h4>-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chekshith&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" height="80"/>
