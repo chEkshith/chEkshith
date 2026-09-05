@@ -1,4 +1,4 @@
-<h3 align="center">Hey 👋, I'm Ekshith</h3>
+<h2 align="center">Hey 👋, I'm Ekshith</h2>
 <p align="center">
   <img src="header-dark.png" alt="Header" width="80%"/>
 </p>
