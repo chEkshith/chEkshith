@@ -82,12 +82,25 @@
   <img src="https://raw.githubusercontent.com/chekshith/chekshith/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" height="150"/>
 </p>
 
+<div align="center">
 
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://leetcard.jacoblin.cool/chokkaniekshith?theme=dark&font=ABeeZee" width="350" />
+    </td>
+    <td  align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=Continuous+learning;Building+Algorithms...;Solving+complex+DSA;Optimizing+Time+Complexity" />
+    </td>
+  </tr>
+</table>
+
+</div>
 <!--<h4 align="center">🏆 Achievements</h4>-->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chekshith&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" height="80"/>
-</p>
+</p> -->
 
 <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
