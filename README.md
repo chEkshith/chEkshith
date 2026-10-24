@@ -89,8 +89,13 @@
     <td valign="top" align="center">
       <img src="https://leetcard.jacoblin.cool/chokkaniekshith?theme=dark&font=ABeeZee" width="350" />
     </td>
-    <td  align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=Continuous+learning;Building+Algorithms...;Solving+complex+DSA;Optimizing+Time+Complexity" />
+    <td valign="top" align="center">
+      <a href="https://www.codechef.com/users/vvit23bq1a4710">
+ <img src="https://img.shields.io/badge/CodeChef-1428_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/Rating-3★_1618-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+      <br><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7A41D&center=true&vCenter=true&width=350&lines=Continuous+learning;Building+Algorithms...;Solving+complex+DSA;Optimizing+Time+Complexity" />
     </td>
   </tr>
 </table>
