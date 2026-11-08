@@ -66,7 +66,7 @@
 
 <h5>Top Languages by Commit</h5>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekshith&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages by Commit" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chekshith&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages by Commit" height="180"/>
 
 </td>
 </tr>
