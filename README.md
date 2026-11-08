@@ -47,7 +47,7 @@
 <!--<h4 align="center">📌 Contribution Activity</h4>-->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chekshith/chekshith/output/activity-graph.svg" alt="GitHub Activity Graph" height="290"/>
+  <img src="https://raw.githubusercontent.com/chekshith/chekshith/activity-output/activity-graph.svg" alt="Activity Graph" />
 </p>
 
 
